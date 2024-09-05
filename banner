@@ -1,8 +1,9 @@
-******** Mi680-WeatheringWithYou Kernel ********
-------------------------------------------------
-Device: Redmi 10C (fog | rain | wind)
-Version: R5r
-Kernel Version: 4.19.311
-------------------------------------------------
-** Sit back and relax. Kernel is installing.. **
-------------------------------------------------
+perf-CAF Kernel
+----------------------------------
+Device: Redmi 10C (fog/wind/rain)
+Version: CAF-1
+Kernel Version: msm-4.19
+KernelSU Support: No
+----------------------------------
+Kernel is being installed...
+----------------------------------
